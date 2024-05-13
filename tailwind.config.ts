@@ -68,7 +68,7 @@ const config = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       backgroundImage: {
-        lamp: "url('/images/lampu.jpg')",
+        water: "url('/images/water.jpg')",
       },
     },
   },
